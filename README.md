@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Chess
+
+This project now includes React components. The purpose is developing chess game step by step. First step is having chess board and pieces with controllable by two players from same browser. To achieve this, I added the React components and will add some JS and Redux components. Now, it has only the board.
+The reason to create this project is Queen's Gambit Tv show on Netflix. When I watched it, I needed to play chess, but there is no chess board in home at that time. I would open some online chess game, but I thought that how it is achieved having chess game, and it pushed me to do that.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
