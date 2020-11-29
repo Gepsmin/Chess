@@ -1,0 +1,21 @@
+.HomePage .Table {
+  width: 512px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; }
+.HomePage .Pieces {
+  width: 512px;
+  height: 512px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  transform: translate(0, -512px); }
+
+.BlockPage {
+  width: 64px;
+  height: 64px;
+  margin: 0;
+  border: 0;
+  padding: 0; }
+
+/*# sourceMappingURL=base.css.map */

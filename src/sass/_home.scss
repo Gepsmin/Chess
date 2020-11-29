@@ -1,0 +1,16 @@
+.HomePage{
+    .Table{
+        width: 512px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .Pieces{
+        width: 512px;
+        height: 512px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        transform: translate(0, -512px);
+    }
+}
